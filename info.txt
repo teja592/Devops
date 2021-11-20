@@ -2,4 +2,6 @@ this is first line
 this is second line
 this is fetch demo
 this is pull demo
+this is conflict demo1
 this is conflict demo
+
