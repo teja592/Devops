@@ -6,3 +6,5 @@ this is conflict demo1
 this is conflict demo
 this is confilct by using diff merge
 this is now pratice diff merge
+this is undo operation
+bangalore is nice city
